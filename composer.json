@@ -1,0 +1,11 @@
+{
+  "name": "sincron/sdk",
+  "license": "MIT",
+  "type": "library",
+  "description": "Sincron.biz PHP SDK",
+  "keywords": ["sincron","sdk","api"],
+  "homepage": "http://sincron.biz",
+  "autoload": {
+    "classmap": ["Sincron.php"]
+  }
+}
